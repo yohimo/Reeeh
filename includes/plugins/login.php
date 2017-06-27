@@ -3,11 +3,11 @@ require_once 'includes/public/header/header.php';
 Connected();
 ?>
     <div class="row">
-     <div class="col-xs-10 col-sm-4 col-md-4 col-lg-4 col-lg-offset-5 col-xs-offset-1">
+     <div class="col-sm-4 col-md-4 col-lg-4 col-lg-offset-3 col-xs-offset-1">
      	<img src="assets/logo.png" id="logo">
      </div>
     	
-      <form class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-4" method="post">
+      <form class="col-xs-12 col-sm-4 col-md-4 col-lg-4 col-lg-offset-3" method="post">
       <legend>Connect to <?php echo APP;?></legend>
         <label for="inputEmail" class="sr-only">Email</label>
         <input type="hidden" name="class" value="login">

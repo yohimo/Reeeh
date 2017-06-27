@@ -1,0 +1,8 @@
+RewriteEngine on
+php_flag display_startup_errors on
+php_flag display_errors on
+php_flag html_errors on
+rewriteBase /reeeh/
+RewriteRule ^([^/\.]+)?$ index.php?Module=$1 [L]
+RewriteRule ^([^/\.]+)/([^/\.]+)?$ index.php?Module=$1&ID=$2 [L]
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)?$ index.php?Module=$1&ID=$2&ID2=$3 [L]

@@ -1,0 +1,19 @@
+<script language="javascript" src="js/jquery.js"></script>
+<script language="javascript" src="js/facebox/facebox.js"></script>
+<script language="javascript" src="js/global.js"></script>
+<script language="javascript" src="js/jquery.uploadify.min.js"></script>
+
+<script language="javascript" src="js/ui/jquery-ui.custom.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.core.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.widget.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.mouse.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.position.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.autocomplete.js"></script>
+<script language="javascript" src="js/search.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.slider.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.sortable.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.accordion.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.button.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.datepicker.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.dialog.js"></script>
+<script language="javascript" src="js/ui/jquery.ui.draggable.js"></script>

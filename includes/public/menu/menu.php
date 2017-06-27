@@ -18,12 +18,11 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">General <span class="caret"></span></a>
             <ul class="dropdown-menu" role="menu">
               <li><a href="<?php echo WebSite;?>Users">Users</a></li>
+              <li><a href="<?php echo WebSite;?>Logout">Logout</a></li>
             </ul>
 
         </li>
       </ul>
-
-
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>

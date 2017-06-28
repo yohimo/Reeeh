@@ -1,7 +1,7 @@
 # Reeeh
 Simple, Fast &amp; easy PHP Framework
 
-PHP framework created by Brahim Moullablad to create fast and web applications for beginners. it's very easy and fast yyou can create a web application in one single day.
+PHP framework created by Brahim Moullablad to ease web apps developements for beginners. it's very easy and fast yyou can create a web application in one single day.
 
 <h3>How to get started?</h3>
 
